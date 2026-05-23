@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**grigorsoghomonyan/grigorsoghomonyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior QA Manual Engineer and a student at the National Polytechnic University of Armenia (NPUA), specializing in Networks and Technologies.
 
-Here are some ideas to get you started:
+I am currently developing my skills in Manual QA, including test case design, bug reporting, and test execution. Also, I am improving my understanding of software development and system architecture through hands-on exercises and university projects.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+
+**QA Tools:**  
+- Jira  
+- TestRail  
+- Postman  
+
+**Databases:**  
+- MySQL  
+
+**Programming & Basics:**  
+- JavaScript (basics)  
+- C++ (OOP fundamentals)  
+
+**Other Skills:**  
+- Linux basics  
+- Networks basics
+
+---
+## 📫 How to reach me
+
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
