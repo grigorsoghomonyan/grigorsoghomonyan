@@ -6,7 +6,7 @@ I am currently developing my skills in Manual QA, including test case design, bu
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 **QA Tools:**  
 - Jira  
